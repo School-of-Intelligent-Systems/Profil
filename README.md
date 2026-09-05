@@ -1,28 +1,28 @@
 # School of Intelligent Systems
 
-Groupe d'étudiants consacré à l'**intelligence artificielle** et au **génie logiciel**, réunissant des membres en **Algérie** et à **Madagascar**.
+A student group dedicated to **artificial intelligence** and **software engineering**, bringing together members from **Algeria** and **Madagascar**.
 
-Fondé en janvier 2026, le groupe organise des **ateliers pratiques hebdomadaires** et développe des projets collaboratifs open source, avec un objectif simple : apprendre en faisant, et partager.
+Founded in January 2026, the group organizes **weekly hands-on workshops** and develops collaborative open-source projects, with a simple goal: learn by doing, and share.
 
-## Nos activités
+## Our activities
 
-- **Ateliers pratiques hebdomadaires** : prise en main d'outils (Git/GitHub, Linux, Docker), apprentissage profond, développement de projets réels.
-- **Projets collaboratifs** : développement open source, documentation, revue de code entre membres.
-- **Partage de savoir** : supports de cours, slides d'ateliers et ressources disponibles pour tous les membres.
+- **Weekly hands-on workshops**: hands-on training with tools (Git/GitHub, Linux, Docker), deep learning, and building real-world projects.
+- **Collaborative projects**: open-source development, documentation, and member code reviews.
+- **Knowledge sharing**: course materials, workshop slides, and resources available to all members.
 
-## Projets
+## Projects
 
-| Projet | Description |
+| Project | Description |
 |---|---|
-| [Tsiry](https://github.com/School-of-Intelligent-Systems/Tsiry) | Système de gestion des rendez-vous hospitaliers, traduit en malagasy. |
+| [Tsiry](https://github.com/School-of-Intelligent-Systems/Tsiry) | Hospital appointment management system, translated into Malagasy. |
 
-## Ressources des ateliers
+## Workshop resources
 
-- Slides et supports des ateliers (voir les dépôts du groupe)
-- Photos et retours de sessions partagés avec les membres
+- Workshop slides and materials (see the group's repositories)
+- Photos and session feedback shared with members
 
-## Nous rejoindre
+## Join us
 
-Le groupe est ouvert aux étudiants en informatique (ou curieux de l'IA) en Algérie et à Madagascar, quel que soit leur niveau.
+The group is open to computer science students (or AI-curious learners) in Algeria and Madagascar, at any level.
 
-Contact : ouvrez un ticket sur ce dépôt ou adressez-vous à un membre du groupe.
+Contact: open an issue on this repository or reach out to any group member.
